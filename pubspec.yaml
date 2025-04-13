@@ -1,0 +1,92 @@
+name: my_app
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.0-323.0.dev
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  flutter_svg: ^2.0.17
+#  shared_preferences: ^2.5.3
+#  flutter_screenutil: ^5.9.3
+  video_player: ^2.9.5
+  syncfusion_flutter_pdfviewer: ^29.1.35
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/g1.svg
+    - assets/images/g2.svg
+    - assets/images/g3.svg
+    - assets/images/g4.svg
+    - assets/images/g5.svg
+    - assets/images/gg.svg
+    - assets/images/g6.svg
+    - assets/b1.svg
+    - assets/b2.svg
+    - assets/b3.svg
+    - assets/b4.svg
+    - assets/b5.svg
+    - assets/b6.svg
+    - assets/b7.svg
+    - assets/b8.svg
+    - assets/b9.svg
+    - assets/b10.svg
+    - assets/b11.svg
+    - assets/s1.png
+    - assets/s2.png
+    - assets/s3.png
+    - assets/s4.png
+    - assets/s5.png
+    - assets/s6.png
+    - assets/s7.png
+    - assets/s8.png
+    - assets/s9.png
+    - assets/s10.png
+    - assets/s11.jpg
+    - assets/s12.jpg
+    - assets/s13.jpg
+    - assets/any.png
+    - assets/sound.mp3
+    - assets/s1.mp4
+    - assets/s2.mp4
+    - assets/s3.mp4
+    - assets/s4.mp4
+    - assets/p.pdf
+    - assets/t2.pdf
+    - assets/t3.pdf
+    - assets/t4.pdf
+    - assets/ui1.mp4
+    - assets/ui2.png
+    - assets/ui3.png
+    - assets/m1.png
+    - assets/sh1.png
+    - assets/sh2.png
+    - assets/sh3.png
+    - assets/sh4.png
+    - assets/sh5.png
+    - assets/h4.png
+    - assets/h5.png
+    - assets/h6.png
+    - assets/h7.png
+    - assets/h8.png
+    - assets/h9.png
+    - assets/h10.png
+    - assets/h11.png
+    - assets/h12.png
+    - assets/h13.png
+    - assets/h14.png
+    - assets/3d.png
+    - assets/ggg1.png
+    - assets/ggg2.png
+    - assets/x.png
